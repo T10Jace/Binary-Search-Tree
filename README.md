@@ -2,6 +2,17 @@ The purpose of this project is to make a deque.
 
 In the main.cpp file, a menu type option should appear that will allow the user to choose what they want to happen in the data.
 
+
+*** Test Files****
+
+test.dat - this file contains text from "A Christmas Carol" which I gathered from project Gutenburg.
+
+test2.dat - This is a blank file, so if you want to write some entries to it and print them out it much more simple to look at and see each string with its value.
+
+
+
+**** Main Menu ****
+
 Option 1: Create/set a data point
     - This option uses the set function to enter data into the BST.
 
